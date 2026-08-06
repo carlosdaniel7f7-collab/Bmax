@@ -1,4 +1,3 @@
-python-telegram-bot
-flask
+python bot.py.
 
 
