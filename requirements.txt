@@ -1,8 +1,9 @@
-python-telegram-bot
-Flask
-Pillow
-nudenet
-opencv-python-headless
+python-telegram-bot>=21.0,<23.0
+Flask>=3.0,<4.0
+nudenet>=3.0
+onnxruntime>=1.17
+opencv-python-headless>=4.8
+numpy>=1.24
 
 
 
