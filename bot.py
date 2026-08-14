@@ -1,4 +1,4 @@
-nudenet>=3.4.2import os
+import os
 import re
 import logging
 import threading
