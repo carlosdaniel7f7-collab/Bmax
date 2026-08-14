@@ -1,6 +1,7 @@
 python-telegram-bot
-flask
-
+Flask
+Pillow
+nudenet>=3.4.2
 
 
 
