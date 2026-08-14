@@ -1,8 +1,8 @@
 python-telegram-bot
 Flask
 Pillow
-nudenet>=3.4.2
-
+nudenet
+opencv-python-headless
 
 
 
