@@ -1,8 +1,6 @@
 python-telegram-bot
 flask
-requests
-Pillow
-google-cloud-vision
+
 
 
 
